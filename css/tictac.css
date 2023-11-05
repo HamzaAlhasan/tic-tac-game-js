@@ -1,0 +1,35 @@
+.container{
+    width : 255px;
+    text-align: center;
+    /* margin : auto; */
+    color: white;
+    font-family: system-ui;
+    font-weight: 750;
+    margin: 150px auto;
+}
+span{
+    color: tomato;
+}
+.title{
+    background-color: indigo;
+    padding: 5px 0px;
+    margin: 5px 0px;
+}
+.square{
+    background-color: indigo;
+    width: 80px;
+    height: 80px;
+    float: left;
+    margin : 2px;
+    font-size: 50px;
+}
+.square:hover{
+    background-color: black;
+    cursor: pointer;
+}
+#again{
+    margin: 20px 0px;
+    padding: 5px 40px;
+    background-color: indigo;
+    color: white;
+}
